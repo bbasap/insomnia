@@ -1,0 +1,14 @@
+_id: env_445783f0f3334e3285b60fa7b31308ba
+type: Environment
+parentId: env_dc8db1dea4c6d18a8df11633ad59201f44862793
+modified: 1680895122757
+created: 1680895112787
+name: UAT
+data:
+  uat: TitanUAT
+dataPropertyOrder:
+  "&":
+    - uat
+color: null
+isPrivate: false
+metaSortKey: 1680895112787

@@ -1,0 +1,21 @@
+_id: req_3d8307d5480045c2818d94b44a90023f
+type: Request
+parentId: wrk_80872fa3480d48339b7061485224bbb3
+modified: 1680895713245
+created: 1680858661928
+url: localhost:3001\api\glossaries\642fe6d0886cec6e0231a38e\terms
+name: get terms list
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1680858661928
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

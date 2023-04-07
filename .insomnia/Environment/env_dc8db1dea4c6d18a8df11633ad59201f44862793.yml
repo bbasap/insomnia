@@ -1,0 +1,18 @@
+_id: env_dc8db1dea4c6d18a8df11633ad59201f44862793
+type: Environment
+parentId: wrk_80872fa3480d48339b7061485224bbb3
+modified: 1680895070600
+created: 1680858661924
+name: Base Environment
+data:
+  dev: TitanSystemTest
+  test: TitanReleaseTest
+  uat: TitanUAT
+dataPropertyOrder:
+  "&":
+    - dev
+    - test
+    - uat
+color: null
+isPrivate: false
+metaSortKey: 1680858661924
